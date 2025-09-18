@@ -36,7 +36,7 @@ This project analyzes smart wellness tracker data to understand usage patterns a
 - Add features like daily challenges and weekly activity reports.
 
 ## Files
-- `bellabeat_report.html` – full RMarkdown report  
+[Full RMarkdown report](https://github.com/EveKudriavska/data-analytics-portfolio/blob/main/Bellabeat-Case-Study.Rmd) 
 - `charts/` – folder containing visualizations  
 - `data/` – optional raw data files  
 
