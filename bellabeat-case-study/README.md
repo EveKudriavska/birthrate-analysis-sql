@@ -15,7 +15,7 @@ This project analyzes smart wellness tracker data to understand usage patterns a
 
 ## Data
 - **Source:** [FitBit Fitness Tracker Data on Zenodo](https://zenodo.org/records/53894#.X9oeh3Uzaao)  
-- **Contents:** 29 CSV files covering daily activity, steps, sleep, calories, weight, and intensities.  
+- **Contents:** 6 CSV files covering daily activity, steps, sleep, calories, weight, and intensities.  
 - **Note:** Data collected in 2016; anonymized and public domain.
 
 ## Tools & Methods
@@ -41,5 +41,5 @@ This project analyzes smart wellness tracker data to understand usage patterns a
 - `data/` – optional raw data files  
 
 ## View the Report
-- **On GitHub:** [View full Bellabeat Report](file:///Users/tomas/Downloads/rstudio-export/Bellabeat-Case-Study.html)  
+- **On GitHub:** [View full Bellabeat Report]([file:///Users/tomas/Downloads/rstudio-export/Bellabeat-Case-Study.html](https://f10355c6760045f288f6815a6cb93ba2.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FBellabeat-Case-Study.html)  
 
