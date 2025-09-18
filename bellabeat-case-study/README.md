@@ -41,5 +41,5 @@ This project analyzes smart wellness tracker data to understand usage patterns a
 - `data/` – optional raw data files  
 
 ## View the Report
-- **On GitHub:** [View full Bellabeat Report](file:///Users/tomas/Desktop/Case%20Study/archive%20(4)/Bellabeat%20Case%20Study%20-%20Posit%20Cloud_files/saved_resource(2).html)  
+- **On GitHub:** [View full Bellabeat Report](file:///Users/tomas/Downloads/rstudio-export/Bellabeat-Case-Study.html)  
 
