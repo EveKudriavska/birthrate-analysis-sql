@@ -42,7 +42,7 @@ The dataset includes the following tables:
 
 ### **Query 2: Top Return Reason**
 **Aim:** Identify the main reason customers return each product to optimize production.  
-**SQL File:** [query2_top_return_reason.sql](SQL/query2_top_return_reason.sql)  
+**SQL File:** [query2_top_return_reason.sql](https://github.com/EveKudriavska/data-analytics-portfolio/blob/main/urban-loom-case-study/urban_loom_query2.sql)  
 
 **Explanation:**
 - Used a window function (ROW_NUMBER) to rank return reasons per product.
