@@ -39,5 +39,5 @@ This project analyzes smart wellness tracker data to understand usage patterns a
 [Full RMarkdown report](https://github.com/EveKudriavska/data-analytics-portfolio/blob/main/Bellabeat-Case-Study.Rmd) 
 
 ## View the Report
-- **On GitHub:** [View full Bellabeat Report]([file:///Users/tomas/Downloads/rstudio-export/Bellabeat-Case-Study.html](https://f10355c6760045f288f6815a6cb93ba2.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FBellabeat-Case-Study.html)  
+- **On GitHub:** [View full Bellabeat Report](https://f10355c6760045f288f6815a6cb93ba2.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FBellabeat-Case-Study.html)  
 
