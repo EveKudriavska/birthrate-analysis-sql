@@ -38,8 +38,6 @@ This project analyzes smart wellness tracker data to understand usage patterns a
 ## Files
 [Full RMarkdown report](https://github.com/EveKudriavska/data-analytics-portfolio/blob/main/Bellabeat-Case-Study.Rmd) 
 
-[Raw Data/csv files](https://github.com/EveKudriavska/data-analytics-portfolio/edit/main/bellabeat-case-study/README.md#:~:text=dailyActivity_merged, https://github.com/EveKudriavska/data-analytics-portfolio/edit/main/bellabeat-case-study/README.md#:~:text=hourlyCalories_merged, https://github.com/EveKudriavska/data-analytics-portfolio/edit/main/bellabeat-case-study/README.md#:~:text=hourlyIntensities_merged, https://github.com/EveKudriavska/data-analytics-portfolio/edit/main/bellabeat-case-study/README.md#:~:text=hourlyIntensities_merged.csv-,hourlySteps_merged,-.csv, https://github.com/EveKudriavska/data-analytics-portfolio/edit/main/bellabeat-case-study/README.md#:~:text=hourlySteps_merged.csv-,sleepDay_merged,-.csv, https://github.com/EveKudriavska/data-analytics-portfolio/edit/main/bellabeat-case-study/README.md#:~:text=weightLogInfo_merged)
-
 ## View the Report
 - **On GitHub:** [View full Bellabeat Report]([file:///Users/tomas/Downloads/rstudio-export/Bellabeat-Case-Study.html](https://f10355c6760045f288f6815a6cb93ba2.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FBellabeat-Case-Study.html)  
 
