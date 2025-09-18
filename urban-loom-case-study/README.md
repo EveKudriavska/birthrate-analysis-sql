@@ -24,7 +24,7 @@ The dataset includes the following tables:
 
 ### **Query 1: Product Classification**
 **Aim:** Classify all products into 4 groups based on sales, split sales and returns, and calculate return percentage per line item.  
-**SQL File:** [query1_product_classification.sql](SQL/query1_product_classification.sql)  
+**SQL File:** [query1_product_classification.sql](https://github.com/EveKudriavska/data-analytics-portfolio/blob/main/urban-loom-case-study/urban_loom_query1.sql)
 
 **Explanation:**
 - Joined Products and Order Line Items to aggregate sales and returns.
