@@ -59,7 +59,7 @@ The dataset includes the following tables:
 
 ### **Query 3: Marketing Campaign Analysis**
 **Aim:** Measure customer acquisition, revenue, total sales, and returns per marketing campaign.  
-**SQL File:** [query3_marketing_campaign_analysis.sql](SQL/query3_marketing_campaign_analysis.sql)  
+**SQL File:** [query3_marketing_campaign_analysis.sql](https://github.com/EveKudriavska/data-analytics-portfolio/blob/main/urban-loom-case-study/urban_loom_query3.sql)  
 
 **Explanation:**
 - Created a CTE to calculate number of customers, revenue, sales, and returns per campaign.
