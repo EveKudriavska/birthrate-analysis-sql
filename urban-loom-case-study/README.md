@@ -84,7 +84,7 @@ The dataset includes the following tables:
 ## Data Model
 The Logical Data Model (LDM) illustrates how all tables relate:
 
-![Logical Data Model](Diagrams/logical_data_model.png)
+![Logical Data Model](urban-loom-case-study/Logical_data_model_project1.png)
 
 ---
 
