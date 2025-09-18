@@ -24,7 +24,7 @@ The dataset includes the following tables:
 
 ### **Query 1: Product Classification**
 **Aim:** Classify all products into 4 groups based on sales, split sales and returns, and calculate return percentage per line item.  
-**SQL File:** [query1_product_classification.sql](https://github.com/EveKudriavska/data-analytics-portfolio/blob/main/urban-loom-case-study/urban_loom_query1.sql)
+**SQL File:** [query1_product_classification.sql](https://github.com/EveKudriavska/data-analytics-portfolio/blob/main/urban-loom-case-study/SQL_code/urban_loom_query1.sql)
 
 **Explanation:**
 - Joined Products and Order Line Items to aggregate sales and returns.
@@ -42,7 +42,7 @@ The dataset includes the following tables:
 
 ### **Query 2: Top Return Reason**
 **Aim:** Identify the main reason customers return each product to optimize production.  
-**SQL File:** [query2_top_return_reason.sql](https://github.com/EveKudriavska/data-analytics-portfolio/blob/main/urban-loom-case-study/urban_loom_query2.sql)  
+**SQL File:** [query2_top_return_reason.sql](https://github.com/EveKudriavska/data-analytics-portfolio/blob/main/urban-loom-case-study/SQL_code/urban_loom_query2.sql)  
 
 **Explanation:**
 - Used a window function (ROW_NUMBER) to rank return reasons per product.
@@ -59,7 +59,7 @@ The dataset includes the following tables:
 
 ### **Query 3: Marketing Campaign Analysis**
 **Aim:** Measure customer acquisition, revenue, total sales, and returns per marketing campaign.  
-**SQL File:** [query3_marketing_campaign_analysis.sql](https://github.com/EveKudriavska/data-analytics-portfolio/blob/main/urban-loom-case-study/urban_loom_query3.sql)  
+**SQL File:** [query3_marketing_campaign_analysis.sql](https://github.com/EveKudriavska/data-analytics-portfolio/blob/main/urban-loom-case-study/SQL_code/urban_loom_query3.sql)  
 
 **Explanation:**
 - Created a CTE to calculate number of customers, revenue, sales, and returns per campaign.
