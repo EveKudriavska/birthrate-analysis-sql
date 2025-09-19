@@ -40,6 +40,6 @@ This project analyzes smart wellness tracker data to understand usage patterns a
 
 ## View the Report
 - **On GitHub:** 
-View the full case study here: [Bellabeat Case Study](https://f10355c6760045f288f6815a6cb93ba2.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FBellabeat-Case-Study.html)
+View the full case study here: [Bellabeat Case Study](https://github.com/EveKudriavska/data-analytics-portfolio/blob/main/bellabeat-case-study/Bellabeat%20Case%20Study.pdf)
 
 
